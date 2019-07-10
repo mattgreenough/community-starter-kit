@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- No real purpose to this project
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- It doesn't do anything
 
 ## Getting started
 
