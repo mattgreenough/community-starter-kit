@@ -4,7 +4,7 @@
 
 ## What it does
 
-- It doesn't do anything
+- It doesn't do anything... I should say, I don't think it does anything
 
 ## Getting started
 
